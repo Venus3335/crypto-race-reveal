@@ -74,6 +74,7 @@ export function ShakeButton({
 
       onSuccess(txHash);
     } catch (error) {
+      // Enhanced error handling
       console.error("Shake error:", error);
 
       if (error instanceof Error) {
