@@ -158,3 +158,4 @@
 2025-11-07 17:40:31 - feat: Implement useZamaInstance hook
 2025-11-07 17:40:31 - test: Add ZLottery contract tests
 2025-11-07 17:40:31 - feat: Add encryption service for ticket numbers
+2025-11-07 17:40:31 - fix: Fix contract address configuration for multiple networks
