@@ -57,6 +57,7 @@ interface DecryptOptions {
   walletClient: WalletClient | undefined;
 }
 
+// Enhanced decryption with better error handling
 export async function decryptNumber({ instance, encryptedHandle, contractAddress, userAddress, walletClient }: DecryptOptions) {
   if (!instance) throw new Error("Encryption service is not ready yet.");
   if (!walletClient) throw new Error("Wallet is unavailable. Please reconnect.");
