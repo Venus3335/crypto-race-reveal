@@ -166,3 +166,4 @@
 2025-11-07 17:40:33 - fix: Fix contractAddress in RoundSummary component
 2025-11-07 17:40:33 - feat: Add dynamic contract address selection
 2025-11-07 17:40:33 - style: Improve UI with dark theme and glassmorphism
+2025-11-07 17:40:33 - docs: Update README with deployment instructions
