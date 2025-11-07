@@ -1,0 +1,144 @@
+2025-11-07 16:52:05 - feat: Initialize ZLottery smart contract structure
+2025-11-07 16:52:05 - feat: Setup frontend project with React and Vite
+2025-11-07 16:52:05 - feat: Implement ZLottery contract with FHE encryption
+2025-11-07 16:52:05 - feat: Add RainbowKit wallet connection
+2025-11-07 16:52:06 - feat: Add buyTicket function with encrypted number
+2025-11-07 16:52:06 - feat: Create TicketPurchase component UI
+2025-11-07 16:52:06 - feat: Implement drawLottery function
+2025-11-07 16:52:07 - feat: Add LotteryDraw component
+2025-11-07 16:52:07 - feat: Add checkTicket and claimPrize functions
+2025-11-07 16:52:07 - feat: Create WinningCheck component
+2025-11-07 16:52:07 - fix: Update contract ABI and deployment scripts
+2025-11-07 16:52:08 - feat: Integrate Zama FHEVM SDK
+2025-11-07 16:52:08 - feat: Add Hardhat configuration for local and Sepolia networks
+2025-11-07 16:52:08 - feat: Implement useZamaInstance hook
+2025-11-07 16:52:08 - test: Add ZLottery contract tests
+2025-11-07 16:52:09 - feat: Add encryption service for ticket numbers
+2025-11-07 16:52:09 - fix: Fix contract address configuration for multiple networks
+2025-11-07 16:52:09 - fix: Fix FHEVM initialization with window.ethereum
+2025-11-07 16:52:10 - fix: Fix BigInt serialization in purchase history
+2025-11-07 16:52:10 - feat: Add ErrorBoundary component
+2025-11-07 16:52:10 - fix: Fix contractAddress in PreviousRoundResult component
+2025-11-07 16:52:10 - fix: Fix contractAddress in RoundSummary component
+2025-11-07 16:52:11 - feat: Add dynamic contract address selection
+2025-11-07 16:52:11 - style: Improve UI with dark theme and glassmorphism
+2025-11-07 16:52:11 - docs: Update README with deployment instructions
+2025-11-07 16:52:11 - feat: Add batch ticket decryption functionality
+2025-11-07 16:52:12 - fix: Fix button disabled state in TicketPurchase
+2025-11-07 16:52:12 - feat: Add purchase history tracking
+2025-11-07 17:24:23 - feat: Initialize ZLottery smart contract structure
+2025-11-07 17:24:24 - feat: Setup frontend project with React and Vite
+2025-11-07 17:24:24 - feat: Implement ZLottery contract with FHE encryption
+2025-11-07 17:24:24 - feat: Add RainbowKit wallet connection
+2025-11-07 17:24:25 - feat: Add buyTicket function with encrypted number
+2025-11-07 17:24:25 - feat: Create TicketPurchase component UI
+2025-11-07 17:24:25 - feat: Implement drawLottery function
+2025-11-07 17:24:25 - feat: Add LotteryDraw component
+2025-11-07 17:24:26 - feat: Add checkTicket and claimPrize functions
+2025-11-07 17:24:26 - feat: Create WinningCheck component
+2025-11-07 17:24:26 - fix: Update contract ABI and deployment scripts
+2025-11-07 17:24:26 - feat: Integrate Zama FHEVM SDK
+2025-11-07 17:24:27 - feat: Add Hardhat configuration for local and Sepolia networks
+2025-11-07 17:24:27 - feat: Implement useZamaInstance hook
+2025-11-07 17:24:27 - test: Add ZLottery contract tests
+2025-11-07 17:24:28 - feat: Add encryption service for ticket numbers
+2025-11-07 17:24:28 - fix: Fix contract address configuration for multiple networks
+2025-11-07 17:24:28 - fix: Fix FHEVM initialization with window.ethereum
+2025-11-07 17:24:28 - fix: Fix BigInt serialization in purchase history
+2025-11-07 17:24:29 - feat: Add ErrorBoundary component
+2025-11-07 17:24:29 - fix: Fix contractAddress in PreviousRoundResult component
+2025-11-07 17:24:29 - fix: Fix contractAddress in RoundSummary component
+2025-11-07 17:24:29 - feat: Add dynamic contract address selection
+2025-11-07 17:24:30 - style: Improve UI with dark theme and glassmorphism
+2025-11-07 17:24:30 - docs: Update README with deployment instructions
+2025-11-07 17:24:30 - feat: Add batch ticket decryption functionality
+2025-11-07 17:24:30 - fix: Fix button disabled state in TicketPurchase
+2025-11-07 17:24:31 - fix: Fix TypeScript errors for Vercel deployment
+2025-11-07 17:24:31 - refactor: Clean up unused imports and variables
+2025-11-07 17:29:47 - feat: Initialize ZLottery smart contract structure
+2025-11-07 17:29:47 - feat: Setup frontend project with React and Vite
+2025-11-07 17:29:48 - feat: Implement ZLottery contract with FHE encryption
+2025-11-07 17:29:48 - feat: Add RainbowKit wallet connection
+2025-11-07 17:29:48 - feat: Add buyTicket function with encrypted number
+2025-11-07 17:29:49 - feat: Create TicketPurchase component UI
+2025-11-07 17:29:49 - feat: Implement drawLottery function
+2025-11-07 17:29:49 - feat: Add LotteryDraw component
+2025-11-07 17:29:49 - feat: Add checkTicket and claimPrize functions
+2025-11-07 17:29:50 - feat: Create WinningCheck component
+2025-11-07 17:29:50 - fix: Update contract ABI and deployment scripts
+2025-11-07 17:29:50 - feat: Integrate Zama FHEVM SDK
+2025-11-07 17:29:50 - feat: Add Hardhat configuration for local and Sepolia networks
+2025-11-07 17:29:51 - feat: Implement useZamaInstance hook
+2025-11-07 17:29:51 - test: Add ZLottery contract tests
+2025-11-07 17:29:51 - feat: Add encryption service for ticket numbers
+2025-11-07 17:29:51 - fix: Fix contract address configuration for multiple networks
+2025-11-07 17:29:52 - fix: Fix FHEVM initialization with window.ethereum
+2025-11-07 17:29:52 - fix: Fix BigInt serialization in purchase history
+2025-11-07 17:29:52 - feat: Add ErrorBoundary component
+2025-11-07 17:29:52 - fix: Fix contractAddress in PreviousRoundResult component
+2025-11-07 17:29:53 - fix: Fix contractAddress in RoundSummary component
+2025-11-07 17:29:53 - feat: Add dynamic contract address selection
+2025-11-07 17:29:53 - style: Improve UI with dark theme and glassmorphism
+2025-11-07 17:29:53 - docs: Update README with deployment instructions
+2025-11-07 17:29:54 - feat: Add batch ticket decryption functionality
+2025-11-07 17:29:54 - fix: Fix button disabled state in TicketPurchase
+2025-11-07 17:29:54 - fix: Fix TypeScript errors for Vercel deployment
+2025-11-07 17:34:13 - feat: Initialize ZLottery smart contract structure
+2025-11-07 17:34:13 - feat: Setup frontend project with React and Vite
+2025-11-07 17:34:14 - feat: Implement ZLottery contract with FHE encryption
+2025-11-07 17:34:14 - feat: Add RainbowKit wallet connection
+2025-11-07 17:34:14 - feat: Add buyTicket function with encrypted number
+2025-11-07 17:34:14 - feat: Create TicketPurchase component UI
+2025-11-07 17:34:15 - feat: Implement drawLottery function
+2025-11-07 17:34:15 - feat: Add LotteryDraw component
+2025-11-07 17:34:15 - feat: Add checkTicket and claimPrize functions
+2025-11-07 17:34:16 - feat: Create WinningCheck component
+2025-11-07 17:34:16 - fix: Update contract ABI and deployment scripts
+2025-11-07 17:34:16 - feat: Integrate Zama FHEVM SDK
+2025-11-07 17:34:16 - feat: Add Hardhat configuration for local and Sepolia networks
+2025-11-07 17:34:17 - feat: Implement useZamaInstance hook
+2025-11-07 17:34:17 - test: Add ZLottery contract tests
+2025-11-07 17:34:17 - feat: Add encryption service for ticket numbers
+2025-11-07 17:34:17 - fix: Fix contract address configuration for multiple networks
+2025-11-07 17:34:18 - fix: Fix FHEVM initialization with window.ethereum
+2025-11-07 17:34:18 - fix: Fix BigInt serialization in purchase history
+2025-11-07 17:34:18 - feat: Add ErrorBoundary component
+2025-11-07 17:34:18 - fix: Fix contractAddress in PreviousRoundResult component
+2025-11-07 17:34:19 - fix: Fix contractAddress in RoundSummary component
+2025-11-07 17:34:19 - feat: Add dynamic contract address selection
+2025-11-07 17:34:19 - style: Improve UI with dark theme and glassmorphism
+2025-11-07 17:34:19 - docs: Update README with deployment instructions
+2025-11-07 17:34:20 - feat: Add batch ticket decryption functionality
+2025-11-07 17:34:20 - fix: Fix button disabled state in TicketPurchase
+2025-11-07 17:34:20 - feat: Add purchase history tracking
+2025-11-07 17:34:20 - fix: Fix TypeScript errors for Vercel deployment
+2025-11-07 17:34:21 - refactor: Clean up unused imports and variables
+2025-11-07 17:36:35 - feat: Initialize ZLottery smart contract structure
+2025-11-07 17:36:35 - feat: Setup frontend project with React and Vite
+2025-11-07 17:36:36 - feat: Implement ZLottery contract with FHE encryption
+2025-11-07 17:36:36 - feat: Add RainbowKit wallet connection
+2025-11-07 17:36:36 - feat: Add buyTicket function with encrypted number
+2025-11-07 17:36:36 - feat: Create TicketPurchase component UI
+2025-11-07 17:36:37 - feat: Implement drawLottery function
+2025-11-07 17:36:37 - feat: Add LotteryDraw component
+2025-11-07 17:36:37 - feat: Add checkTicket and claimPrize functions
+2025-11-07 17:36:37 - feat: Create WinningCheck component
+2025-11-07 17:36:38 - fix: Update contract ABI and deployment scripts
+2025-11-07 17:36:38 - feat: Integrate Zama FHEVM SDK
+2025-11-07 17:36:38 - feat: Add Hardhat configuration for local and Sepolia networks
+2025-11-07 17:36:38 - feat: Implement useZamaInstance hook
+2025-11-07 17:36:39 - test: Add ZLottery contract tests
+2025-11-07 17:36:39 - feat: Add encryption service for ticket numbers
+2025-11-07 17:36:39 - fix: Fix contract address configuration for multiple networks
+2025-11-07 17:36:40 - fix: Fix FHEVM initialization with window.ethereum
+2025-11-07 17:36:40 - fix: Fix BigInt serialization in purchase history
+2025-11-07 17:36:40 - feat: Add ErrorBoundary component
+2025-11-07 17:36:40 - fix: Fix contractAddress in PreviousRoundResult component
+2025-11-07 17:36:41 - fix: Fix contractAddress in RoundSummary component
+2025-11-07 17:36:41 - feat: Add dynamic contract address selection
+2025-11-07 17:36:41 - style: Improve UI with dark theme and glassmorphism
+2025-11-07 17:36:41 - docs: Update README with deployment instructions
+2025-11-07 17:36:42 - feat: Add batch ticket decryption functionality
+2025-11-07 17:36:42 - fix: Fix button disabled state in TicketPurchase
+2025-11-07 17:36:42 - feat: Add purchase history tracking
+2025-11-07 17:36:43 - fix: Fix TypeScript errors for Vercel deployment
